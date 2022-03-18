@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://gunesbora.github.io/Website-Page-Design/] (https://gunesbora.github.io/Website-Page-Design/)
+- Live Site URL: https://gunesbora.github.io/Website-Page-Design/
 
 ### Built with
 
